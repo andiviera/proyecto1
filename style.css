@@ -8,7 +8,12 @@
     color: aqua;
 }
 
-.cabecera {
+.header {
+    background-color:cornflowerblue;
+    height: 5vh;
+}
+
+.footer {
     background-color:cornflowerblue;
     height: 5vh;
 }
