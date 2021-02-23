@@ -1,19 +1,36 @@
 * {
+    font-family: Arial, Helvetica, sans-serif;
     box-sizing: border-box;
     margin: 0;
     padding: 0;
   }
 
 .titulo {
-    color: aqua;
+    margin-left: 10px;
+    color: red;
+}
+
+.parrafos {
+    margin-left: 10px;
 }
 
 .header {
+    font-size: 16px;
     background-color:cornflowerblue;
     height: 5vh;
 }
 
+.texto-header {
+    margin-left: 5px;
+}
+
 .footer {
+    font-size: 11px;
+    color: grey;
     background-color:cornflowerblue;
     height: 5vh;
+}
+
+.texto-footer {
+    margin-left: 5px;
 }
